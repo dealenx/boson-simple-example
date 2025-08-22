@@ -1,0 +1,8 @@
+{
+  "name": "dealenx/boson-simple-example",
+  "description": "A simple example application demonstrating Boson PHP framework",
+  "require": {
+    "php": "^8.4",
+    "boson-php/runtime": "dev-master"
+  }
+}

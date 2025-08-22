@@ -1,0 +1,15 @@
+# https://taskfile.dev
+
+version: '3'
+
+tasks:
+  default:
+    desc: "Run the application"
+    cmds:
+      - php index.php
+
+  install:
+    desc: "Install dependencies"
+    cmds:
+      - composer install
+
