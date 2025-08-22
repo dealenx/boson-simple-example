@@ -15,6 +15,7 @@ composer install
 php index.php
 ```
 
+## Installation via Taskfile
 Alternatively, use [taskfile.dev](https://taskfile.dev/)
 1. **Install dependencies**: 
 ```bash
