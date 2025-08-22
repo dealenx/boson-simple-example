@@ -2,6 +2,8 @@
 
 A simple example application demonstrating Boson PHP framework.
 
+<img  alt="Image" src="https://github.com/user-attachments/assets/16441326-1a41-462e-9772-ff3e7b8f9371" />
+
 ## Installation
 
 1. **Requirements**: PHP 8.4 or higher
